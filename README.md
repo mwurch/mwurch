@@ -4,48 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=460&lines=%24+whoami+%E2%86%92+full-stack+developer;C%2FC%2B%2B+%C2%B7+Go+%C2%B7+TypeScript+%C2%B7+React" alt="typing" />
 </p>
 
-<table>
-<tr>
-<td width="38%" valign="top">
-
-```
-           .:-==+++==:.
-        .-=+*########*+=-.
-      :=+*#%%%%%%%%%%%##*+=:
-    .=+*#%%@@@@@@@@@@%%%##*+=.
-   -+*#%%@@@@@@@@@@@@@@%%%#*+-
-  =+*#%%@@@@@@@@@@@@@@@@%%%#*+=
- -+*#%%@@@@@@@@@@@@@@@@@@%%%#*+-
- +*#%%@@@@@@@@@@@@@@@@@@@@%%#*+
- +*#%%@@@@@@@@@@@@@@@@@@@@%%#*+
- -+*#%%@@@@@@@@@@@@@@@@@@%%%#*+-
-  =+*#%%@@@@@@@@@@@@@@@@%%%#*+=
-   -+*#%%@@@@@@@@@@@@@@%%%#*+-
-    .=+*#%%@@@@@@@@@@%%%##*+=.
-      :=+*#%%%%%%%%%%%##*+=:
-        .-=+*########*+=-.
-           .:-==+++==:.
-```
-
-</td>
-<td valign="top">
-
-```sh
-mwurch@github
-──────────────────────────────
-OS:        Aspiring Full-Stack Developer
-Role:      Computer Science major
-Shell:     C · C++ · Go · TypeScript
-Languages: C, C++, JavaScript, TypeScript,
-           Go, HTML5, CSS3
-Tools:     React, Nginx, Postgres, Git, Docker
-Contact:   wurch.marcel@gmail.com
-──────────────────────────────
-```
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="profile-card.svg" width="100%" alt="mwurch@github — Aspiring Full-Stack Developer · Computer Science major · C, C++, Go, TypeScript, JavaScript, HTML5, CSS3 · React, Nginx, Postgres, Git, Docker · wurch.marcel@gmail.com" />
+</p>
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />

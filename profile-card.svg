@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="392" viewBox="0 0 900 392" role="img" aria-label="mwurch — developer profile card">
+<defs>
+<filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="1.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="0.5" y="0.5" width="899" height="391" rx="12" fill="#070b14" stroke="#404272"/>
+<rect x="24.5" y="24.5" width="299" height="342" rx="10" fill="#02040b" stroke="#373659"/>
+<rect x="344.5" y="24.5" width="531" height="342" rx="10" fill="#02040b" stroke="#373659"/>
+<text x="48" y="62" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#00e5f2" filter="url(#glow)" xml:space="preserve">           .:-==+++==:.</text>
+<text x="48" y="81" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#00e2ff" filter="url(#glow)" xml:space="preserve">        .-=+*########*+=-.</text>
+<text x="48" y="100" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#00deff" filter="url(#glow)" xml:space="preserve">      :=+*#%%%%%%%%%%%##*+=:</text>
+<text x="48" y="119" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#00d9ff" filter="url(#glow)" xml:space="preserve">    .=+*#%%@@@@@@@@@@%%%##*+=.</text>
+<text x="48" y="138" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#00d4ff" filter="url(#glow)" xml:space="preserve">   -+*#%%@@@@@@@@@@@@@@%%%#*+-</text>
+<text x="48" y="157" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#3dceff" filter="url(#glow)" xml:space="preserve">  =+*#%%@@@@@@@@@@@@@@@@%%%#*+=</text>
+<text x="48" y="176" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#62c8ff" filter="url(#glow)" xml:space="preserve"> -+*#%%@@@@@@@@@@@@@@@@@@%%%#*+-</text>
+<text x="48" y="195" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#7ec2ff" filter="url(#glow)" xml:space="preserve"> +*#%%@@@@@@@@@@@@@@@@@@@@%%#*+</text>
+<text x="48" y="214" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#96bcff" filter="url(#glow)" xml:space="preserve"> +*#%%@@@@@@@@@@@@@@@@@@@@%%#*+</text>
+<text x="48" y="233" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#aab5ff" filter="url(#glow)" xml:space="preserve"> -+*#%%@@@@@@@@@@@@@@@@@@%%%#*+-</text>
+<text x="48" y="252" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#bdafff" filter="url(#glow)" xml:space="preserve">  =+*#%%@@@@@@@@@@@@@@@@%%%#*+=</text>
+<text x="48" y="271" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#cea9ff" filter="url(#glow)" xml:space="preserve">   -+*#%%@@@@@@@@@@@@@@%%%#*+-</text>
+<text x="48" y="290" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#dea4ff" filter="url(#glow)" xml:space="preserve">    .=+*#%%@@@@@@@@@@%%%##*+=.</text>
+<text x="48" y="309" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#ec9eff" filter="url(#glow)" xml:space="preserve">      :=+*#%%%%%%%%%%%##*+=:</text>
+<text x="48" y="328" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#f89aff" filter="url(#glow)" xml:space="preserve">        .-=+*########*+=-.</text>
+<text x="48" y="347" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="12.5" fill="#ff95fb" filter="url(#glow)" xml:space="preserve">           .:-==+++==:.</text>
+<text x="372" y="66" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13.5" font-weight="700" fill="#63de44">mwurch@github</text>
+<text x="372" y="91" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13.5" fill="#635b8e">──────────────────────────────</text>
+<text x="372" y="116" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13.5" font-weight="600" fill="#f08fe8">OS:</text>
+<text x="468" y="116" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13.5" fill="#ccd8ec">Aspiring Full-Stack Developer</text>
+<text x="372" y="141" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13.5" font-weight="600" fill="#f08fe8">Role:</text>
+<text x="468" y="141" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13.5" fill="#ccd8ec">Computer Science major</text>
+<text x="372" y="166" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13.5" font-weight="600" fill="#f08fe8">Languages:</text>
+<text x="468" y="166" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13.5" fill="#ccd8ec">C, C++, JavaScript, TypeScript,</text>
+<text x="468" y="191" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13.5" fill="#ccd8ec">Go, HTML5, CSS3</text>
+<text x="372" y="216" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13.5" font-weight="600" fill="#f08fe8">Tools:</text>
+<text x="468" y="216" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13.5" fill="#ccd8ec">React, Nginx, Postgres, Git, Docker</text>
+<text x="372" y="241" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13.5" font-weight="600" fill="#f08fe8">Contact:</text>
+<text x="468" y="241" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13.5" fill="#ccd8ec">wurch.marcel@gmail.com</text>
+<text x="372" y="266" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="13.5" fill="#635b8e">──────────────────────────────</text>
+</svg>
