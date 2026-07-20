@@ -1,11 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:6366f1,100:d946ef&height=170&section=header&text=mwurch&fontColor=ffffff&fontSize=64&fontAlignY=36&animation=fadeIn" alt="mwurch" />
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=460&lines=%24+whoami+%E2%86%92+full-stack+developer;C%2FC%2B%2B+%C2%B7+Go+%C2%B7+TypeScript+%C2%B7+React" alt="typing" />
-</p>
-
-<p align="center">
-  <img src="profile-card.svg" width="100%" alt="mwurch@github — Aspiring Full-Stack Developer · Computer Science major · C, C++, Go, TypeScript, JavaScript, HTML5, CSS3 · React, Nginx, Postgres, Git, Docker · wurch.marcel@gmail.com" />
+  <img src="profile-card.svg" width="100%" alt="mwurch — $ whoami → full-stack developer. Aspiring Full-Stack Developer · Computer Science major · Languages: C, C++, JavaScript, TypeScript, Go, HTML5, CSS3 · Tools: React, Nginx, Postgres, Git, Docker · Contact: wurch.marcel@gmail.com" />
 </p>
 
 <p align="left">
