@@ -30,13 +30,15 @@ are all in the repositories below. That foundation now runs upward into TypeScri
 
 ## 🚀 Featured work
 
-Every project below is written from scratch — no frameworks, no scaffolding, no boilerplate generators.
+A shipped mobile app, and systems work written from scratch — the projects below the first one
+use no frameworks, no libraries and no scaffolding.
 
 | Project | What it does | Built with |
 | :--- | :--- | :--- |
+| **[hangul-app](https://github.com/mwurch/hangul-app)**<br/>*Mobile app* | A mobile app teaching beginners to read the Korean alphabet. Live **syllable composition** derived from Unicode arithmetic, **SM-2 spaced repetition** scheduling, an eight-lesson unlock path, and fully offline operation. Covered by **257 tests**. | `TypeScript` `React Native` `Expo` `Zustand` `Jest` |
 | **[webserv-42](https://github.com/mwurch/webserv-42)**<br/>*HTTP server* | A working **HTTP/1.1 web server** built on raw POSIX sockets. Non-blocking I/O driven by `poll()`, PHP **CGI** execution for dynamic pages, multipart **file uploads** with an image gallery, and an Nginx-style **config parser** with server blocks and route locations. | `C++` `POSIX sockets` `Make` |
 | **[c-projects](https://github.com/mwurch/c-projects)**<br/>*Systems fundamentals* | Four low-level builds: **libft** (the C standard library, reimplemented), **get_next_line** (buffered stream reader), **minishell** (a working Unix shell), and **philo** (the dining philosophers problem, solved with threads and mutexes). | `C` `pthreads` `Make` |
-| **[cpp](https://github.com/mwurch/cpp)**<br/>*Object-oriented C++* | Nine progressive modules covering classes and orthodox canonical form, inheritance and polymorphism, operator overloading, exceptions, templates, and the STL containers and algorithms. | `C++` `Make` |
+| **[cpp](https://github.com/mwurch/cpp)**<br/>*Object-oriented C++* | Ten progressive modules covering classes and orthodox canonical form, inheritance and polymorphism, operator overloading, exceptions, templates, and the STL containers and algorithms. | `C++` `Make` |
 | **[inception](https://github.com/mwurch/inception)**<br/>*Infrastructure* | A multi-service environment built from **hand-written Dockerfiles** — no prebuilt images. **Nginx** with TLS as the sole entry point, **WordPress** on PHP-FPM, and a **MariaDB** instance, wired together with custom Docker networks and persistent volumes. | `Docker` `Nginx` `MariaDB` `Shell` |
 
 ## 🛠 Stack
@@ -44,7 +46,8 @@ Every project below is written from scratch — no frameworks, no scaffolding, n
 | Area | Technologies |
 | :--- | :--- |
 | **Systems** | C · C++ · POSIX · pthreads · sockets · Make · Linux |
-| **Web** | TypeScript · JavaScript · React · HTML5 · CSS3 |
+| **Web & mobile** | TypeScript · JavaScript · React · React Native (Expo) · HTML5 · CSS3 |
+| **Testing** | Jest · React Native Testing Library |
 | **Infrastructure** | Docker · Nginx · Git · MariaDB · PostgreSQL |
 | **Currently learning** | Go |
 
