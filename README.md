@@ -15,7 +15,7 @@
 <p align="center">
   <a href="mailto:wurch.marcel@gmail.com"><img src="https://img.shields.io/badge/Email-f770ef?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-00deeb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/marcel-wurch-04765b383"><img src="https://img.shields.io/badge/LinkedIn-00deeb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -54,4 +54,4 @@ I'm open to **working student positions, internships, and junior developer roles
 on-site or remote.
 
 - ✉️ **[wurch.marcel@gmail.com](mailto:wurch.marcel@gmail.com)**
-- 💼 **[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/marcel-wurch-04765b383)**
